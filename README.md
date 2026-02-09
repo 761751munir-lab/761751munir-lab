@@ -1,10 +1,3 @@
-<p align="center">
-  
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=761751munir-lab&theme=tokyonight&no-frame=true&row=1" />
-</p>
 
 
 
