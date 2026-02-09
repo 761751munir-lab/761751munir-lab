@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;Backend+Specialist;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=761751munir-lab&theme=tokyonight&no-frame=true&row=1" />
+</p>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Munir</h1>
 <h3 align="center">Full Stack Developer | React | Node.js | MongoDB</h3>
 
