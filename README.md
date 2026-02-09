@@ -1,28 +1,53 @@
-<h1 align="center">🖥 root@761751munir-lab:~#</h1>
+<h1 align="center">🖥 761751munir-lab • Security Dashboard</h1>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🧠 SYSTEM INFORMATION
 
 ```bash
-root@761751munir-lab:~# whoami
-Munir
-
-root@761751munir-lab:~# uname -a
-Full Stack Developer | MERN Stack Engineer | Backend Specialist
-
-root@761751munir-lab:~# systemctl status developer.service
-● developer.service - Active
-   Loaded: React, Node.js, MongoDB
-   Status: Running
-   Security-Level: High
-   Focus: Scalable Backend Systems
-
-root@761751munir-lab:~# ls projects/
-authentication-api
-admin-dashboard
-book-management-system
-portfolio-site
-
-root@761751munir-lab:~# echo $MISSION
-Build secure, scalable and production-ready applications.
-
-root@761751munir-lab:~# exit
-logout
+USER: Munir
+ROLE: Full Stack Developer
+OS: Kali Linux Inspired
+STACK: React | Node.js | MongoDB
+STATUS: ONLINE
+SECURITY LEVEL: HIGH
 ```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ⚙ ACTIVE SERVICES
+
+```bash
+[✔] Authentication System
+[✔] REST API Development
+[✔] Admin Dashboard
+[✔] Backend Architecture
+[ ] Production Deployment
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🗂 PROJECT DIRECTORY
+
+```bash
+📁 /projects
+ ├── authentication-api
+ ├── admin-panel
+ ├── book-management
+ └── portfolio
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📊 SYSTEM PERFORMANCE
+
+```bash
+CPU Usage: 34%
+Backend Load: Stable
+Database: Connected
+Server Status: Running
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+> root@761751munir-lab:~# System operational.
