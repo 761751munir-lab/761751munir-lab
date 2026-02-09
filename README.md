@@ -1,53 +1,49 @@
-<h1 align="center">🖥 761751munir-lab • Security Dashboard</h1>
+<h1 align="center">Munir Choudhary</h1>
+<h3 align="center">Full Stack Developer • Backend Focused • MERN Stack</h3>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-## 🧠 SYSTEM INFORMATION
+<p align="center">
+Building secure, scalable and real-world web applications.
+</p>
 
-```bash
-USER: Munir
-ROLE: Full Stack Developer
-OS: Kali Linux Inspired
-STACK: React | Node.js | MongoDB
-STATUS: ONLINE
-SECURITY LEVEL: HIGH
-```
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🧑‍💻 About Me
 
-## ⚙ ACTIVE SERVICES
+- 💻 I design and build backend systems  
+- 🔐 Focused on authentication & secure APIs  
+- 🚀 Learning advanced backend architecture  
+- 🎯 Goal: Become a professional software engineer  
 
-```bash
-[✔] Authentication System
-[✔] REST API Development
-[✔] Admin Dashboard
-[✔] Backend Architecture
-[ ] Production Deployment
-```
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🛠 Tech Stack
 
-## 🗂 PROJECT DIRECTORY
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,html,css,tailwind,git,github,vscode" />
+</p>
 
-```bash
-📁 /projects
- ├── authentication-api
- ├── admin-panel
- ├── book-management
- └── portfolio
-```
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 📊 GitHub Stats
 
-## 📊 SYSTEM PERFORMANCE
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=761751munir-lab&show_icons=true&theme=tokyonight" />
+</p>
 
-```bash
-CPU Usage: 34%
-Backend Load: Stable
-Database: Connected
-Server Status: Running
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=761751munir-lab&layout=compact&theme=tokyonight" />
+</p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
-> root@761751munir-lab:~# System operational.
+## 📌 Current Focus
+
+Building production-ready backend systems with clean architecture and security best practices.
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting
+</p>
