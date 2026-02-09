@@ -1,35 +1,8 @@
+<h1 align="center">⚡ 761751munir-lab.exe</h1>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/761751munir-lab/761751munir-lab/output/github-contribution-grid-snake.svg" />
-</p>
-
-
-<h1 align="center">Hi 👋, I'm Munir</h1>
-<h3 align="center">Full Stack Developer | React | Node.js | MongoDB</h3>
-
----
-
-## 🚀 About Me
-- 💻 I build real-world web applications  
-- 🔐 Working on Admin Authentication Systems  
-- 📚 Currently improving Backend Development  
-- 🎯 Goal: Become a Professional Software Developer  
-
----
-
-## 🛠️ Tech Stack
-⚛️ React  
-🟢 Node.js  
-🍃 MongoDB  
-🎨 Tailwind CSS  
-🔐 JWT  
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=761751munir-lab&show_icons=true&theme=radical)
-
----
-
-⭐ Thanks for visiting my profile!
+```bash
+> Booting Developer Profile...
+> Initializing MERN Stack...
+> Authentication Systems: READY
+> Backend Mode: ACTIVE
+> Status: ONLINE
