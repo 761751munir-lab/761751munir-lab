@@ -1,20 +1,28 @@
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.instagram.com/cyber_x.n.7?igsh=NDg1cmM3YzRna3Rv" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 
-  <a href="https://www.snapchat.com/add/munir0choudhary?share_id=06rXwOJAYdQ&locale=en-IN" target="_blank">
-    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
-  </a>
+<a href="https://www.instagram.com/cyber_x.n.7?igsh=NDg1cmM3YzRna3Rv" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-  <a href="https://youtube.com/@different_life_77?si=vJ-UDpOMYXjg90rU" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
+<a href="https://www.snapchat.com/add/munir0choudhary?share_id=06rXwOJAYdQ&locale=en-IN" target="_blank">
+  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
+</a>
 
-  <a href="https://x.com/761751munir" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+<a href="https://youtube.com/@different_life_77?si=vJ-UDpOMYXjg90rU" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://x.com/761751munir" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
 </p>
+
+---
 
 
 
@@ -68,5 +76,5 @@ Building production-ready backend systems with clean architecture and security b
 <p align="center">
   ⭐ Thanks for visiting
 </p>
-## 🌐 Connect With Me
+
 
