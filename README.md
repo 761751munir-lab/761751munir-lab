@@ -168,9 +168,9 @@ sudo airodump-ng wlan0mon
 
     Nikto (Web Scanner)
 
-sudo apt install nikto -y
+(sudo apt install nikto -y)
 
-nikto -h http://target.com -output result.txt
+(nikto -h http://target.com -output result.txt)
 
 
 
