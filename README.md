@@ -79,7 +79,16 @@ Building secure, scalable and real-world web applications.
 
 <p align="center">
   <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="80"/>
-<p> munir </p>
+<p> NMAP – Advanced Scan
+############################
+sudo apt update
+sudo apt install nmap -y
+
+# Service + Version detection
+nmap -sS -sV -O -T4 target_ip
+
+# Full port scan
+nmap -p- target_ip </p>
 
   ---
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="80"/>
