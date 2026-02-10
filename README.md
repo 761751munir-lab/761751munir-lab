@@ -73,73 +73,33 @@ Building secure, scalable and real-world web applications.
 
 ---
 
+---
+
 ## 🐉 Kali Linux Tools
 
-<table align="center">
-<tr>
-<td align="center" width="150">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Nmap_logo.svg" width="60"/><br>
-<b>Nmap</b><br>
-Network Scanning
-</td>
+<p align="center">
+  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="80"/>
+<p> munir </p>
 
-<td align="center" width="150">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Metasploit_logo_and_wordmark.svg" width="60"/><br>
-<b>Metasploit</b><br>
-Penetration Framework
-</td>
+  ---
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="80"/>
+  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="80"/>
+  <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="80"/>
+  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="80"/>
+</p>
 
-<td align="center" width="150">
-<img src="https://portswigger.net/content/images/logos/burp-suite-logo.svg" width="60"/><br>
-<b>Burp Suite</b><br>
-Web App Testing
-</td>
+<p align="center">
+  <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="80"/>
+  <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="80"/>
+  <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="80"/>
+  <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="80"/>
+  <img src="https://www.kali.org/tools/john/images/john-logo.svg" width="80"/>
+</p>
 
-<td align="center" width="150">
-<img src="https://sqlmap.org/images/sqlmap-logo.png" width="60"/><br>
-<b>SQLMap</b><br>
-SQL Injection Testing
-</td>
-
-<td align="center" width="150">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Hydra_logo.svg" width="60"/><br>
-<b>Hydra</b><br>
-Brute Force Tool
-</td>
-</tr>
-
-<tr>
-<td align="center" width="150">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Logo.svg" width="60"/><br>
-<b>Wireshark</b><br>
-Packet Analyzer
-</td>
-
-<td align="center" width="150">
-<img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="60"/><br>
-<b>Aircrack-ng</b><br>
-WiFi Testing
-</td>
-
-<td align="center" width="150">
-<img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="60"/><br>
-<b>Nikto</b><br>
-Vulnerability Scanner
-</td>
-
-<td align="center" width="150">
-<img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="60"/><br>
-<b>Gobuster</b><br>
-Directory Bruteforce
-</td>
-
-<td align="center" width="150">
-<img src="https://www.kali.org/tools/john/images/john-logo.svg" width="60"/><br>
-<b>John</b><br>
-Password Cracker
-</td>
-</tr>
-</table>
+<p align="center">
+Nmap • Metasploit • Burp Suite • SQLMap • Hydra  
+Wireshark • Aircrack-ng • Nikto • Gobuster • John The Ripper
+</p>
 
 ---
 
