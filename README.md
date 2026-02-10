@@ -66,6 +66,41 @@ Building secure, scalable and real-world web applications.
 
 ---
 
+
+---
+
+## 🐉 Kali Linux Tools
+
+<p align="center">
+  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="80"/>
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="80"/>
+  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="80"/>
+  <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="80"/>
+  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="80"/>
+</p>
+
+<p align="center">
+  <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="80"/>
+  <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="80"/>
+  <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="80"/>
+  <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="80"/>
+  <img src="https://www.kali.org/tools/john/images/john-logo.svg" width="80"/>
+</p>
+
+<p align="center">
+Nmap • Metasploit • Burp Suite • SQLMap • Hydra  
+Wireshark • Aircrack-ng • Nikto • Gobuster • John The Ripper
+</p>
+
+---
+
+
+
+
+
+
+
+  
 ## 📌 Current Focus
 
 Building production-ready backend systems with clean architecture and security best practices.
