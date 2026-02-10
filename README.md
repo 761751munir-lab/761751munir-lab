@@ -197,9 +197,492 @@ john --wordlist=/usr/share/wordlists/rockyou.txt hash.txt
 ```
 
 ---
+---
+---
 
 
    # 📱 Termux Tools
+
+---
+
+### 11. OpenSSH
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/OpenSSH_logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install openssh
+ssh user@host
+```
+
+---
+
+### 12. Htop
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Htop-logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install htop
+htop
+```
+
+---
+
+### 13. Tmux
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Tmux_logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install tmux
+tmux
+```
+
+---
+
+### 14. Clang
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/LLVM_Logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install clang
+clang --version
+```
+
+---
+
+### 15. Make
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GNU_Logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install make
+make
+```
+
+---
+
+### 16. CMake
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" width="80"/>
+</p>
+
+```bash
+pkg install cmake
+cmake --version
+```
+
+---
+
+### 17. Zip
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Zip_logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install zip
+zip file.zip file.txt
+```
+
+---
+
+### 18. Unzip
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Zip_logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install unzip
+unzip file.zip
+```
+
+---
+
+### 19. Tar
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GNU_Logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install tar
+tar -xvf file.tar
+```
+
+---
+
+### 20. Netcat
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Netcat_logo.png" width="80"/>
+</p>
+
+```bash
+pkg install netcat
+nc -lvp 4444
+```
+
+---
+
+### 21. Traceroute
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Internet-icon.svg" width="80"/>
+</p>
+
+```bash
+pkg install traceroute
+traceroute google.com
+```
+
+---
+
+### 22. Whois
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Internet-icon.svg" width="80"/>
+</p>
+
+```bash
+pkg install whois
+whois example.com
+```
+
+---
+
+### 23. DNSUtils
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Internet-icon.svg" width="80"/>
+</p>
+
+```bash
+pkg install dnsutils
+nslookup google.com
+```
+
+---
+
+### 24. FFmpeg
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/FFmpeg_Logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install ffmpeg
+ffmpeg -version
+```
+
+---
+
+### 25. ImageMagick
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/ImageMagick_logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install imagemagick
+convert image.png image.jpg
+```
+
+---
+
+### 26. Neovim
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="80"/>
+</p>
+
+```bash
+pkg install neovim
+nvim
+```
+
+---
+
+### 27. Ranger
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GNU_Logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install ranger
+ranger
+```
+
+---
+
+### 28. Tree
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GNU_Logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install tree
+tree
+```
+
+---
+
+### 29. Grep
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GNU_Logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install grep
+grep "text" file.txt
+```
+
+---
+
+### 30. Sed
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GNU_Logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install sed
+sed 's/old/new/' file.txt
+```
+
+---
+
+### 31. Awk
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GNU_Logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install gawk
+awk '{print $1}' file.txt
+```
+
+---
+
+### 32. Nmap
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Nmap_logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install nmap
+nmap target_ip
+```
+
+---
+
+### 33. Tcpdump
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install tcpdump
+tcpdump -i any
+```
+
+---
+
+### 34. Python Pip
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="80"/>
+</p>
+
+```bash
+pkg install python
+pip install requests
+```
+
+---
+
+### 35. Node Package Manager
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="80"/>
+</p>
+
+```bash
+npm install express
+```
+
+---
+
+### 36. Composer
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Composer_logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install composer
+composer --version
+```
+
+---
+
+### 37. Yarn
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Yarn-logo-kitten.svg" width="80"/>
+</p>
+
+```bash
+npm install -g yarn
+yarn --version
+```
+
+---
+
+### 38. SQLite
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="80"/>
+</p>
+
+```bash
+pkg install sqlite
+sqlite3 database.db
+```
+
+---
+
+### 39. MariaDB
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Mariadb-seal-browntext.svg" width="80"/>
+</p>
+
+```bash
+pkg install mariadb
+mysql -u root
+```
+
+---
+
+### 40. PostgreSQL
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="80"/>
+</p>
+
+```bash
+pkg install postgresql
+psql
+```
+
+---
+
+---
+
+### 41. Docker CLI
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install docker
+docker --version
+```
+
+---
+
+### 42. Rust
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install rust
+rustc --version
+```
+
+---
+
+### 43. Java (OpenJDK)
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install openjdk-17
+java -version
+```
+
+---
+
+### 44. Gradle
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gradle_logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install gradle
+gradle -v
+```
+
+---
+
+### 45. Maven
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install maven
+mvn -v
+```
+
+---
+
+### 46. Perl
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Perl_logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install perl
+perl -v
+```
+
+---
+
+### 47. Lua
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install lua
+lua -v
+```
+
+---
+
+### 48. Bash
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install bash
+bash --version
+```
+
+---
+
+### 49. Zsh
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Zsh_logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install zsh
+zsh
+```
+
+---
+
+### 50. Fish
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Fish_shell_logo.svg" width="80"/>
+</p>
+
+```bash
+pkg install fish
+fish
+```
 
 ---
 
