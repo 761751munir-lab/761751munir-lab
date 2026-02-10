@@ -57,9 +57,6 @@ Building secure, scalable and real-world web applications.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://www.kali.org/images/kali-linux-2023.4-desktop-gnome.jpg" width="600" />
-</p>
 
 
 <p align="center">
